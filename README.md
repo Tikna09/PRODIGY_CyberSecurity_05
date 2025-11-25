@@ -10,7 +10,7 @@ Each time a packet is detected, Scapy sends it to the packet_callback() function
 **Protocol Identification**
 * The sniffer identifies whether the captured packet is TCP, UDP, ICMP, or another IP-based protocol by checking the protocol number inside the IP header.
 
-* **Header Extraction**
+**Header Extraction**
 * For every packet, the tool extracts:
 * Source IP address
 * Destination IP address
