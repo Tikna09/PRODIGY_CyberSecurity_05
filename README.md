@@ -16,7 +16,7 @@ Each time a packet is detected, Scapy sends it to the packet_callback() function
 * Source port (for TCP/UDP)
 * Destination port (for TCP/UDP)
 
-* **Payload Capture**
+**Payload Capture**
 * If the packet contains raw data, the sniffer extracts a preview of the payload and prints it in the terminal.
 
 * **Saving Data**
