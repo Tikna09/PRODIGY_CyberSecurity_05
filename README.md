@@ -27,14 +27,12 @@ This file can be opened in Wireshark for professional packet analysis.
 # What the Screenshots Show
 * **Screenshot 1 — Sniffer Code (VS Code)**
 <img width="959" height="562" alt="Screenshot 2025-11-26 045652" src="https://github.com/user-attachments/assets/2b5fa230-54cb-49b3-b487-862d5e16da93" />
-
 * This screenshot displays the Python code used to build the sniffer. It shows the logic for identifying protocols, extracting header information, and printing packet details.
 
 * **Screenshot 2 — Live Packet Capture Output**
 <img width="959" height="564" alt="Screenshot 2025-11-26 045800" src="https://github.com/user-attachments/assets/49a9988a-98f5-4830-a8c4-f2b8dcc39bb3" />
-
 * This screenshot shows the sniffer running in the VS Code terminal.
-You can see real packets being captured, including:
+* You can see real packets being captured, including:
 * TCP packets going to port 443 (HTTPS)
 * UDP packets with payload data
 * Source and destination IP addresses
