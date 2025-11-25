@@ -1,4 +1,4 @@
-l# Network Packet Analyzer 
+# Network Packet Analyzer 
 The Packet Sniffer project is a Python-based tool designed to capture and analyze network traffic in real time. The sniffer listens to packets traveling through the computer’s network interface (Wi-Fi) and extracts important details such as protocol type, IP addresses, port numbers, and payload data. This helps visualize how devices communicate over a network and how data moves between a source and destination.
 
 # How the Tool Works
