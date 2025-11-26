@@ -34,6 +34,7 @@ This file can be opened in Wireshark for professional packet analysis.
 
 * **Screenshot 2 — Live Packet Capture Output**
 <img width="959" height="564" alt="Screenshot 2025-11-26 045800" src="https://github.com/user-attachments/assets/49a9988a-98f5-4830-a8c4-f2b8dcc39bb3" />
+
 * This screenshot shows the sniffer running in the VS Code terminal.
 * You can see real packets being captured, including:
 * TCP packets going to port 443 (HTTPS)
